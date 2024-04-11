@@ -17,7 +17,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 5     | 20 Deep Learning Projects Solved and Explained with Python   | [👆](https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/) |
 | 6     | 20 Machine learning Project                                  | [👆](https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1) |
 | 7     | 30 Python Project Solved and Explained                       | [👆](https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003) |
-| 8     | Machine learning Course for Free                             | [👆](https://thecleverprogrammer.com/2020/09/24/machine-learning-course/) |
+| 8     | Machine learning Course for free                             | [👆](https://thecleverprogrammer.com/2020/09/24/machine-learning-course/) |
 | 9     | 5 Web Scraping Projects with Python                          | [👆](https://amankharwal.medium.com/5-web-scraping-projects-with-python-4bcc25ff039) |
 | 10    | 20 Machine Learning Projects on Future Prediction with Python | [👆](https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f) |
 | 11    | 4 Chatbot Project With Python                                | [👆](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37) |
